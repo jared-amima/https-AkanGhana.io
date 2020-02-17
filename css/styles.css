@@ -1,5 +1,5 @@
 h1{
-    color: seagreen;
+    color: black;
     text-align: center;
     font-size: medium;
 }
@@ -13,4 +13,10 @@ h3{
     font-weight: normal;
     color: lawngreen;
     font-weight: normal;
+}
+body{
+    background-color: lightseagreen;
+}
+title{
+    text-decoration-color: hotpink;
 }
