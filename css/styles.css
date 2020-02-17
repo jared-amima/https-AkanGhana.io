@@ -5,4 +5,5 @@ h1{
 }
 h2{
     column-count: auto;
+    text-align: initial;
 }
